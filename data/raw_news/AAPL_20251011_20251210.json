@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mock_AAPL_0",
+    "ticker": "AAPL",
+    "headline": "AAPL mock news headline #1",
+    "summary_or_description": "Synthetic summary for AAPL describing market sentiment and corporate developments during the requested window.",
+    "published_at": "2025-10-11T08:00:00Z",
+    "source": "mock-feed",
+    "url": "https://example.com/aapl/mock/0",
+    "raw_text": "Placeholder article 1 for AAPL spanning from 2025-10-11 to 2025-12-10. Useful for demo runs without API credentials.",
+    "ingest_window": {
+      "start_date": "2025-10-11",
+      "end_date": "2025-12-10"
+    }
+  },
+  {
+    "id": "mock_AAPL_1",
+    "ticker": "AAPL",
+    "headline": "AAPL mock news headline #2",
+    "summary_or_description": "Synthetic summary for AAPL describing market sentiment and corporate developments during the requested window.",
+    "published_at": "2025-10-12T08:00:00Z",
+    "source": "mock-feed",
+    "url": "https://example.com/aapl/mock/1",
+    "raw_text": "Placeholder article 2 for AAPL spanning from 2025-10-11 to 2025-12-10. Useful for demo runs without API credentials.",
+    "ingest_window": {
+      "start_date": "2025-10-11",
+      "end_date": "2025-12-10"
+    }
+  },
+  {
+    "id": "mock_AAPL_2",
+    "ticker": "AAPL",
+    "headline": "AAPL mock news headline #3",
+    "summary_or_description": "Synthetic summary for AAPL describing market sentiment and corporate developments during the requested window.",
+    "published_at": "2025-10-13T08:00:00Z",
+    "source": "mock-feed",
+    "url": "https://example.com/aapl/mock/2",
+    "raw_text": "Placeholder article 3 for AAPL spanning from 2025-10-11 to 2025-12-10. Useful for demo runs without API credentials.",
+    "ingest_window": {
+      "start_date": "2025-10-11",
+      "end_date": "2025-12-10"
+    }
+  },
+  {
+    "id": "mock_AAPL_3",
+    "ticker": "AAPL",
+    "headline": "AAPL mock news headline #4",
+    "summary_or_description": "Synthetic summary for AAPL describing market sentiment and corporate developments during the requested window.",
+    "published_at": "2025-10-14T08:00:00Z",
+    "source": "mock-feed",
+    "url": "https://example.com/aapl/mock/3",
+    "raw_text": "Placeholder article 4 for AAPL spanning from 2025-10-11 to 2025-12-10. Useful for demo runs without API credentials.",
+    "ingest_window": {
+      "start_date": "2025-10-11",
+      "end_date": "2025-12-10"
+    }
+  },
+  {
+    "id": "mock_AAPL_4",
+    "ticker": "AAPL",
+    "headline": "AAPL mock news headline #5",
+    "summary_or_description": "Synthetic summary for AAPL describing market sentiment and corporate developments during the requested window.",
+    "published_at": "2025-10-15T08:00:00Z",
+    "source": "mock-feed",
+    "url": "https://example.com/aapl/mock/4",
+    "raw_text": "Placeholder article 5 for AAPL spanning from 2025-10-11 to 2025-12-10. Useful for demo runs without API credentials.",
+    "ingest_window": {
+      "start_date": "2025-10-11",
+      "end_date": "2025-12-10"
+    }
+  }
+]

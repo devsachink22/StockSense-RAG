@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+beautifulsoup4
+yfinance
+chromadb
+sentence-transformers
+scikit-learn
+fastapi
+uvicorn
+typer
+python-dotenv
+langchain
+langchain-community
+openai
+joblib
